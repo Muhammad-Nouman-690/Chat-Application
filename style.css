@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(images/bg\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    background-color: whitesmoke;
+    width: 400px;
+    border: 15px solid darkgrey;
+    padding: 50px;
+    margin: auto;
+
+}
+
